@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Sagar",
+    "age": 23,
+    "email": "sagar@example.com",
+    "city": "Kathmandu",
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "name": "Ram",
+    "age": 22,
+    "email": "ram@example.com",
+    "city": "Pokhara",
+    "is_active": true
+  },
+  {
+    "id": 3,
+    "name": "Sita",
+    "age": 24,
+    "email": "sita@example.com",
+    "city": "Lalitpur",
+    "is_active": false
+  },
+  {
+    "id": 4,
+    "name": "Hari",
+    "age": 25,
+    "email": "hari@example.com",
+    "city": "Bhaktapur",
+    "is_active": true
+  },
+  {
+    "id": 5,
+    "name": "Gita",
+    "age": 21,
+    "email": "gita@example.com",
+    "city": "Chitwan",
+    "is_active": false
+  }
+]
