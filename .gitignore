@@ -20,3 +20,6 @@ __pycache__/
 # Model files (optional)
 *.pkl
 *.joblib
+
+# Assignment datasets
+assignments/assigmnent_09/images/
